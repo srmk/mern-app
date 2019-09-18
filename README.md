@@ -5,7 +5,7 @@ simple react app using mongodb, express with node.js
 step 1:
 
 cd mern-app
-npm install
+npm install 
 npm start
 
 step 2:
